@@ -14,3 +14,9 @@ It uses lists to store and output the board. It was also an introduction of long
 I had to delete over 100 lines of code and rewrite until it was working well and didn't throw any error.
 I used try and except calls in this program a lot to avoidpeople inputting garbage to trick the code
 into breaking.
+
+Prison Break Data Analysis
+My third upload is of Juypiter Notebook where I took data from [List of helicopter prison escapes](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes) Wikipedia article. And answered some asked questions while demonstrating and commenting on the code on itself.
+
+FizzBuzz
+My forth is a simple puzzle I found on a IT recuriters website which is called FizzBuzz to have you demonstrate your profency with programming. Sadly they would only accept the C language, and as I'm not the best versed in it I was unable to do it without help of documentation. Although this is my attempt in Python in Pycharm.
